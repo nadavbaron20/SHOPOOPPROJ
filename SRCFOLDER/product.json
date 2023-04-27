@@ -1,0 +1,86 @@
+[
+  {
+    "id": "cshirt",
+    "name": "Casual Shirt",
+    "price": 45,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/CASUALSHIRT.jpg"
+  },
+  {
+    "id": "oshirt",
+    "name": "Office Shirt",
+    "price": 55,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/OFFICESHIRT.jpg"
+  },
+  {
+    "id": "gofias",
+    "name": "Gofia",
+    "price": 70,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/GOFIA.jpg"
+  },
+  {
+    "id": "tshirt",
+    "name": "T Shirt",
+    "price": 60,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/TSHIRT.jpg"
+  },
+  {
+    "id": "sunhat",
+    "name": "SUN HAT",
+    "price": 30,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/CAP.jpeg"
+  },
+  {
+    "id": "classichat",
+    "name": "CLASSIC HAT",
+    "price": 55,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/HAT.jpeg"
+  },
+  {
+    "id": "casualhat",
+    "name": "CASUAL HAT",
+    "price": 70,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/CASUALHAT.jpeg"
+  },
+  {
+    "id": "armyhat",
+    "name": "ARMY HAT",
+    "price": 20,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/ARMYHAT.jpeg"
+  },
+  {
+    "id": "womenshoe",
+    "name": "WOMEN SHOE'S",
+    "price": 30,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/WOMENSHOE.jpeg"
+  },
+  {
+    "id": "homeshoe",
+    "name": "HOME SHOE'S",
+    "price": 55,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/HOMESHOE.jpeg"
+  },
+  {
+    "id": "runingshoe",
+    "name": "RUNNING SHOE'S",
+    "price": 70,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/RUNINGSHOE.jpeg"
+  },
+  {
+    "id": "elegantshoe",
+    "name": "ELEGANT SHOE'S",
+    "price": 20,
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing",
+    "img": "PICTURE/ELEGANTSHOE.jpeg"
+  }     
+]
